@@ -1,4 +1,4 @@
----
+battry---
 manufacturer: 
     - xiaomi
 
